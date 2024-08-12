@@ -14,7 +14,7 @@ management:
         include: '*'
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/users
+    url: jdbc:postgresql://localhost:5433/postgres?currentSchema=anti_fraud
     username: postgres
     password: password
   liquibase:
