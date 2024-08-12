@@ -1,0 +1,9 @@
+# Project exclude paths
+/account/target/
+/antifraud/target/
+/authorization/target/
+/eureka-service/target/
+/history/target/
+/profile/target/
+/public-info/target/
+/transfer/target/
